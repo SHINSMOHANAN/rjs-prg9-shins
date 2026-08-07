@@ -34,7 +34,7 @@ root.render(
     <div className="row">
 
       <StudentCard
-        image="student1.png.webp"
+        image="image1.jpg"
         name="Ramesh"
         regno="1U24CA034"
         department="BCA"
@@ -42,7 +42,7 @@ root.render(
       />
 
       <StudentCard
-        image="student2.png"
+        image="image2.jpg"
         name="Hari"
         regno="1U24CA055"
         department="BCA"
@@ -50,7 +50,7 @@ root.render(
       />
 
       <StudentCard
-        image="student3.png"
+        image="image3.jpg"
         name="Bava"
         regno="1U24CA067"
         department="BCA"
